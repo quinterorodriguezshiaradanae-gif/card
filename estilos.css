@@ -1,0 +1,46 @@
+body {
+    margin-top: 50px;
+    font-family: sans-serif;
+    background-color: #fe88c3;
+    color: #000000;
+    text-align: center;
+}
+
+img {
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+}
+
+/*2. Selectores de CLASE */
+.boton-enlace {
+    display: block;
+    background-color: #e59d9d;
+    color: #ac0056;
+    padding: 12px 20px;
+    margin: 10px auto;
+    border-radius: 8px;
+    text-decoration: nome;
+    width: 240px;
+}
+
+.perfil {
+    max-width: 350px;
+    margin: 50px auto;
+    background-color: rgb(179, 89, 161);
+    border-radius: 16px;
+    padding: 24px;
+    box-shadow: 0 8px 20px #ff0080;
+}
+
+.links {
+    .margin-top: 20px;
+}
+
+
+/*3. Selectores de id */
+#enlace-destacado {
+    background-color: #00a6ff;
+    color: #8481ed;
+    font-weight: bold;
+}
